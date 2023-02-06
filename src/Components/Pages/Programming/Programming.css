@@ -1,0 +1,15 @@
+.tip-text {
+  text-align: center; 
+  font-size: 22px; 
+  font-weight: bold;
+  margin-bottom: 30px; 
+}
+
+.coding-projects-row {
+  display: flex; 
+  overflow: auto;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

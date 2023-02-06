@@ -1,0 +1,26 @@
+.about-box {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+.about-info {
+  background-color: white;
+  width: 800px;
+  padding: 20px;
+  margin-right: 3vw; 
+  border-radius: 20px; 
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 60);
+}
+
+.about-text {
+  color: rgb(0, 93, 40);
+  font-weight: 500; 
+  font-size: 18px; 
+}
+
+.about-picture {
+  width: 250px;
+  border: 6px solid rgb(0, 93, 40);
+  border-radius: 125px; 
+}

@@ -1,0 +1,45 @@
+.project-information {
+  display: flex;
+  justify-content: center;
+}
+
+.project-details {
+  flex: 2;
+  margin-right: 30px;
+}
+
+.project-title, .community-project-title, .coding-project-title {
+  font-size: 24px; 
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.project-description, .community-project-description, .coding-project-description {
+  font-size: 18px;
+  font-weight: 500; 
+}
+
+.project-picture {
+  flex: 1; 
+  display: flex; 
+  justify-content: center; 
+}
+
+.community-project-information {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.community-project-title {
+  font-size: 36px; 
+}
+
+.coding-project {
+  margin-right: 60px; 
+}
+
+.coding-project-information {
+  width: 1000px; 
+  display: flex; 
+}
